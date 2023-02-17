@@ -13,4 +13,3 @@ shell scripting Topics
 8.Exitstatus
 9.Quotes
 10.Ridirectors
-11.manasa
